@@ -29,7 +29,7 @@ Resume Optimizer also enables users to automatically search for the top job list
 <br>
 
 <p align="center">
-    <img align=center src="https://media.giphy.com/media/P764kqXfpG6eiz9jDS/giphy.gif" width=100%>
+    <img align=center src="videos/usage.gif" width=100%>
 </p>
 
 

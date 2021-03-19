@@ -1,13 +1,5 @@
 # Resume Optimizer
 
-## Table of Contents
-* [Project Description](#project-description)
-* [Features](#features)
-* [Video: Resume Optimizer in Action](#video)
-* [Authors](#authors)
-
-<a name="#project-description"></a>
-
 ## Project Description
 Resume Optimizer is utility application for job applicants to increase their chances of landing their dream job through **resume parsing**, **resume optimization**, and **job searching** tailored for their specific skills and career field. 
 
@@ -22,8 +14,6 @@ This application can be deployed as a web application using Azure Cloud Services
 * Affinda Resume Parser API
 * Indeed Job Search API
 
-<a name="#features"></a>
-
 ## Features
 
 ### Resume Parsing
@@ -35,16 +25,13 @@ Using crowd-sourced data from the resumes of other job applicants using this app
 ### Job Searching
 Resume Optimizer also enables users to automatically search for the top job listings for their field in their specified location -- allowing them to quickly tweak their resumes and then apply to viable positions in their field. Job data is pulled from Indeed's Job Search API and displayed on this application's webpage.
 
-<a name="#video"></a>
-
 ## Video: Resume Optimizer In Action
 <br>
 
 <p align="center">
-    <img align=center src="https://media.giphy.com/media/P764kqXfpG6eiz9jDS/giphy.gif">
+    <img align=center src="https://media.giphy.com/media/P764kqXfpG6eiz9jDS/giphy.gif" width=100%>
 </p>
 
-<a name="#authors"></a>
 
 ## Authors
 Jorge Alvarez ([@J-Alv](https://github.com/J-Alv))
